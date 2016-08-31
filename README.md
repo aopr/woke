@@ -1,24 +1,5 @@
-# README
+"Woke" curated news for people interested in Social Justice.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In a day when more and more small news delivery services and media companies exist and are easier to access than ever before, 6 huge corporations control over 90% of all media. This is great if you want to watch movies with preditable story lines and hundred million dollar budgets, but it sucks if you want to be exposed to news and human interest stories that actually affect your life.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Woke uses the power of twitter, youtube and feedly to aggagate and curate news and social interest stories for readers interested in more than just what 6 huge media companies want us to see.
