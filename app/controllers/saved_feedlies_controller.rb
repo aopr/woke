@@ -1,0 +1,2 @@
+class SavedFeedliesController < ApplicationController
+end
