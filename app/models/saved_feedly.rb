@@ -1,0 +1,2 @@
+class SavedFeedly < ApplicationRecord
+end

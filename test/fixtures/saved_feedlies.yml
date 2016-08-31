@@ -1,0 +1,35 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  source: MyString
+  headline: MyString
+  url: MyText
+  pub_date: 2016-08-30 20:49:43
+  pic: MyText
+  keywords: MyText
+  lead: MyText
+  topic_id: 1
+  story_type: MyString
+  home_feature: false
+  home_main: false
+  home_main_pic: false
+  home_right: false
+  topic_feature: false
+  topic_pic: false
+
+two:
+  source: MyString
+  headline: MyString
+  url: MyText
+  pub_date: 2016-08-30 20:49:43
+  pic: MyText
+  keywords: MyText
+  lead: MyText
+  topic_id: 1
+  story_type: MyString
+  home_feature: false
+  home_main: false
+  home_main_pic: false
+  home_right: false
+  topic_feature: false
+  topic_pic: false
