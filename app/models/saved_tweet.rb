@@ -1,0 +1,2 @@
+class SavedTweet < ApplicationRecord
+end
