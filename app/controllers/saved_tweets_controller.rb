@@ -1,0 +1,2 @@
+class SavedTweetsController < ApplicationController
+end
