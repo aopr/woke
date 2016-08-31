@@ -18,7 +18,7 @@ class SavedFeedly < ApplicationRecord
     y = y.join(", ").gsub!(/[[:punct:]]/, '') # flattens array into one string based on commas and removes punctuation from inside array
     return y
   end
-  def self.sort_words(stuff)     #creates has of indv words with wordcount
+  def self.sort_words(stuff)     #creates hash of indv words with wordcount
     sorted = stuff.sort_by {|k,v| v}.reverse # builds sorted array with highest first
     return sorted
   end
@@ -44,7 +44,7 @@ class SavedFeedly < ApplicationRecord
   end
 
   def self.get_top_words(cleaned_and_sorted)
-    cleaned_and_sorted[0...9]
+    cleaned_and_sorted[0...19]
     # p "The Top 20 Keywords in tweets are #{cleaned_and_sorted}"
     return cleaned_and_sorted
   end
@@ -88,5 +88,5 @@ class SavedFeedly < ApplicationRecord
               flatten_urls(
               gather_links))))
   end
-  
+
 end

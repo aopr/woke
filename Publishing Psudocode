@@ -1,0 +1,28 @@
+Admin Login
+
+Tweets:
+  -Download from twitter
+  -Save as Tws
+  -Filter/data analysis
+  -Assign topic
+  -Determine desired location
+    -Homepage?
+    -Topic page?
+  -Publish  
+
+Feedlies:
+  -Download from feedly
+  -Save as Feedlies
+  -Scrape and assign image
+  -Find date
+  -Determine desired location
+    -Homepage feature?
+    -Homepage main w/pic?
+    -Homepage main w/o pic?
+    -Homepage right w/o pic?
+    -Topic page feature?
+    -Topic page w/pic?
+    -Topic page w/o pic?
+  -Add lead if needed
+  -Assign topic
+  -Publish
